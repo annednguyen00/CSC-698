@@ -1,0 +1,242 @@
+,incident_id,weapon_id,weapon_type,gun_class,gun_type
+510,318,519,gun,LG,shotgun
+513,319,522,gun,UG,
+514,320,523,gun,UG,
+515,321,524,gun,HG,semiautomatic handgun
+518,323,527,gun,HG,semiautomatic handgun
+520,324,529,gun,LG,rifle
+521,324,530,gun,HG,handgun
+523,326,532,gun,UG,
+525,328,534,gun,HG,semiautomatic handgun
+526,329,535,gun,UG,
+531,333,541,gun,HG,handgun
+532,334,542,gun,HG,semiautomatic handgun
+533,335,543,gun,HG,handgun
+535,337,545,gun,UG,
+536,338,546,gun,UG,
+538,340,548,gun,LG,semiautomatic rifle
+539,340,549,gun,LG,shotgun
+540,340,550,gun,HG,semiautomatic handgun
+541,341,551,gun,LG,rifle
+542,342,552,gun,LG,semiautomatic rifle
+543,342,553,gun,LG,semiautomatic rifle
+544,342,554,gun,LG,semiautomatic rifle
+545,342,555,gun,LG,semiautomatic rifle
+546,342,556,gun,LG,semiautomatic rifle
+547,342,557,gun,LG,semiautomatic rifle
+548,342,558,gun,LG,semiautomatic rifle
+549,342,559,gun,LG,semiautomatic rifle
+550,342,560,gun,LG,semiautomatic rifle
+551,342,561,gun,LG,semiautomatic rifle
+552,342,562,gun,LG,semiautomatic rifle
+553,342,563,gun,LG,semiautomatic rifle
+554,342,564,gun,LG,semiautomatic rifle
+555,342,565,gun,LG,semiautomatic rifle
+556,342,566,gun,LG,semiautomatic rifle
+557,342,567,gun,LG,semiautomatic rifle
+558,342,568,gun,LG,semiautomatic rifle
+559,342,569,gun,LG,semiautomatic rifle
+560,342,570,gun,LG,semiautomatic rifle
+561,342,571,gun,LG,semiautomatic rifle
+562,342,572,gun,LG,semiautomatic rifle
+563,342,573,gun,LG,semiautomatic rifle
+564,342,574,gun,LG,rifle
+565,342,575,gun,HG,revolver
+567,344,577,gun,LG,semiautomatic rifle
+568,345,578,gun,HG,handgun
+570,346,580,gun,LG,shotgun
+572,347,582,gun,LG,semiautomatic rifle
+574,349,584,gun,LG,semiautomatic rifle
+575,349,585,gun,LG,semiautomatic rifle
+576,349,586,gun,HG,semiautomatic handgun
+577,349,587,gun,HG,semiautomatic handgun
+578,350,588,gun,UG,
+579,351,589,gun,HG,semiautomatic handgun
+580,351,590,gun,LG,semiautomatic rifle
+581,351,591,gun,LG,rifle
+582,352,592,gun,HG,handgun
+583,353,593,gun,LG,semiautomatic rifle
+584,354,594,gun,HG,handgun
+585,355,595,gun,LG,semiautomatic rifle
+586,356,596,gun,HG,semiautomatic handgun
+587,357,597,gun,LG,shotgun
+588,357,598,gun,HG,revolver
+589,358,599,gun,HG,semiautomatic handgun
+590,359,600,gun,LG,rifle
+591,359,601,gun,LG,rifle
+592,359,602,gun,LG,shotgun
+593,359,603,gun,LG,shotgun
+594,359,604,gun,HG,handgun
+595,360,605,gun,LG,shotgun
+596,361,606,gun,UG,
+597,362,607,gun,HG,handgun
+598,363,608,gun,HG,revolver
+599,364,609,gun,HG,handgun
+600,365,610,gun,LG,shotgun
+601,365,611,gun,UG,
+602,366,612,gun,HG,semiautomatic handgun
+603,366,613,gun,HG,semiautomatic handgun
+604,366,614,gun,HG,semiautomatic handgun
+605,366,615,gun,LG,semiautomatic rifle
+606,367,616,gun,HG,semiautomatic handgun
+607,368,617,gun,UG,
+608,369,618,gun,HG,handgun
+610,370,620,gun,HG,handgun
+616,375,626,gun,UG,
+617,376,627,gun,HG,semiautomatic handgun
+618,377,628,gun,UG,
+619,378,629,gun,HG,handgun
+620,379,630,gun,HG,handgun
+621,380,631,gun,HG,semiautomatic handgun
+622,381,632,gun,UG,
+625,383,635,gun,HG,semiautomatic handgun
+628,385,638,gun,UG,
+629,386,639,gun,HG,semiautomatic handgun
+630,386,640,gun,HG,semiautomatic handgun
+631,388,641,gun,UG,
+632,389,642,gun,HG,semiautomatic handgun
+633,390,643,gun,LG,rifle
+634,391,644,gun,UG,
+636,393,646,gun,UG,
+637,394,647,gun,LG,shotgun
+639,396,649,gun,LG,semiautomatic rifle
+640,397,650,gun,HG,semiautomatic handgun
+641,399,652,gun,UG,
+644,402,656,gun,HG,handgun
+646,404,658,gun,HG,handgun
+647,405,659,gun,UG,
+648,406,660,gun,UG,
+650,408,662,gun,HG,handgun
+651,408,663,gun,HG,handgun
+652,409,664,gun,UG,
+655,415,667,gun,HG,handgun
+656,418,668,gun,HG,handgun
+661,421,673,gun,HG,semiautomatic handgun
+662,421,674,gun,HG,semiautomatic handgun
+663,422,675,gun,HG,handgun
+664,423,676,gun,LG,shotgun
+665,424,677,gun,LG,semiautomatic rifle
+666,424,678,gun,LG,shotgun
+667,424,679,gun,HG,semiautomatic handgun
+668,424,680,gun,HG,semiautomatic handgun
+669,424,681,gun,HG,handgun
+674,428,686,gun,HG,handgun
+675,429,687,gun,HG,revolver
+676,430,688,gun,UG,
+677,433,691,gun,UG,
+678,434,692,gun,LG,shotgun
+679,438,695,gun,HG,handgun
+680,439,696,gun,HG,handgun
+681,440,697,gun,UG,
+682,441,698,gun,HG,handgun
+683,442,699,gun,UG,
+684,444,701,gun,HG,handgun
+685,445,702,gun,HG,handgun
+686,446,703,gun,UG,
+687,447,704,gun,HG,handgun
+688,448,705,gun,UG,
+689,449,706,gun,UG,
+690,451,708,gun,HG,semiautomatic handgun
+691,453,709,gun,HG,handgun
+692,457,712,gun,UG,
+694,436,715,gun,HG,semiautomatic handgun
+695,460,717,gun,HG,semiautomatic handgun
+696,462,718,gun,LG,semiautomatic rifle
+697,464,719,gun,HG,semiautomatic handgun
+698,436,720,gun,UG,
+699,432,721,gun,HG,semiautomatic handgun
+700,432,722,gun,LG,semiautomatic rifle
+701,431,723,gun,HG,semiautomatic handgun
+702,424,725,gun,LG,semiautomatic rifle
+703,424,726,gun,HG,semiautomatic handgun
+704,424,727,gun,HG,semiautomatic handgun
+705,424,728,gun,HG,semiautomatic handgun
+706,401,729,gun,LG,semiautomatic rifle
+707,347,730,gun,HG,semiautomatic handgun
+708,347,731,gun,HG,semiautomatic handgun
+709,460,732,gun,HG,semiautomatic handgun
+710,465,733,gun,UG,
+711,466,734,gun,HG,semiautomatic handgun
+712,466,735,gun,HG,semiautomatic handgun
+713,467,736,gun,LG,semiautomatic rifle
+714,467,737,gun,LG,semiautomatic rifle
+717,463,741,gun,UG,
+719,438,743,gun,LG,semiautomatic rifle
+720,450,744,gun,LG,semiautomatic rifle
+722,455,746,gun,HG,handgun
+723,455,747,gun,HG,semiautomatic handgun
+725,469,749,gun,HG,semiautomatic handgun
+728,471,752,gun,UG,
+729,472,753,gun,HG,semiautomatic handgun
+730,472,754,gun,HG,semiautomatic handgun
+731,472,755,gun,HG,semiautomatic handgun
+734,476,758,gun,UG,
+735,476,759,gun,UG,
+736,477,760,gun,HG,handgun
+738,478,762,gun,HG,handgun
+739,478,763,gun,LG,shotgun
+740,478,764,gun,LG,shotgun
+741,479,765,gun,LG,semiautomatic rifle
+742,479,766,gun,HG,handgun
+745,482,769,gun,LG,semiautomatic rifle
+746,483,770,gun,UG,
+747,484,771,gun,UG,
+748,485,772,gun,UG,
+750,488,774,gun,HG,handgun
+751,487,775,gun,LG,rifle
+752,491,777,gun,UG,
+754,493,779,gun,HG,handgun
+755,493,780,gun,LG,shotgun
+756,494,781,gun,HG,semiautomatic handgun
+758,468,783,gun,UG,
+759,496,785,gun,LG,semiautomatic rifle
+760,497,786,gun,HG,semiautomatic handgun
+761,498,787,gun,LG,rifle
+762,498,788,gun,HG,handgun
+763,498,789,gun,LG,rifle
+764,499,790,gun,HG,semiautomatic handgun
+765,500,791,gun,HG,handgun
+766,501,792,gun,LG,semiautomatic rifle
+767,502,793,gun,HG,automatic handgun
+768,503,794,gun,HG,semiautomatic handgun
+769,504,795,gun,UG,
+770,506,796,gun,UG,
+771,507,797,gun,LG,semiautomatic rifle
+773,508,799,gun,LG,semiautomatic rifle
+774,510,800,gun,LG,semiautomatic rifle
+775,510,801,gun,HG,semiautomatic handgun
+776,499,802,gun,HG,semiautomatic handgun
+778,511,804,gun,HG,handgun
+779,511,805,gun,LG,semiautomatic rifle
+780,513,806,gun,UG,
+781,514,807,gun,LG,semiautomatic rifle
+782,515,808,gun,UG,
+785,517,811,gun,UG,
+787,518,813,gun,HG,handgun
+788,519,814,gun,UG,
+789,431,815,gun,HG,semiautomatic handgun
+791,522,818,gun,HG,semiautomatic handgun
+794,525,821,gun,HG,handgun
+796,526,823,gun,UG,
+799,527,826,gun,UG,
+800,528,827,gun,UG,
+801,529,828,gun,HG,shotgun
+803,532,830,gun,UG,
+804,531,831,gun,UG,
+805,533,832,gun,UG,
+807,534,834,gun,UG,
+809,535,836,gun,UG,
+810,536,837,gun,UG,
+811,537,838,gun,UG,
+814,540,841,gun,LG,shotgun
+815,541,842,gun,LG,semiautomatic rifle
+816,541,843,gun,HG,handgun
+817,542,844,gun,UG,
+818,543,845,gun,HG,handgun
+859,570,886,gun,HG,handgun
+870,418,899,gun,HG,handgun
+871,529,900,gun,LG,handgun
+872,513,901,gun,UG,
+879,527,908,gun,UG,
+880,500,909,gun,LG,rifle
+881,497,910,gun,LG,semiautomatic rifle
